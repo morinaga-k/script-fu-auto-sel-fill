@@ -1,0 +1,29 @@
+script-fu-auto-sel-fill.scm
+
+(c) 2014 森長和真
+
+
+ご利用にあたり
+・script-fu-auto-sel-fill はフリーソフトウエアです。自由にご利用ください。
+・ソフトウエアはプログラムの不具合などによって問題が生じる場合があります。
+　それにより損害が生じても、損害に対する保証は出来ませんので、あらかじめご了承ください。
+
+導入方法
+script-fu-auto-sel-fill.scm ファイルを、
+　C:￥Documents and Settings\ユーザー名\.gimp-2.8\scripts などに入れてください。
+　メニュー→編集→設定→フォルダ→スクリプト　で参照や変更などができます。
+GIMPを起動 （すでに起動してる場合は フィルタ→Script-Fu→スクリプトを再読み込み をクリック）
+
+不具合
+・script-fu-auto-sel-fill の動作中に、
+　メニューから"script-fu-asf-change-target" や "sfp-extract-line-drawing"、
+　”元に戻す”や”作業履歴”コマンドを使うとエラーが発生する。
+
+動作確認
+Windows 版　GIMP2.8で確認。
+
+連絡先
+y326045@yahoo.co.jp
+http://www43.tok2.com/home/mk8405/
+
+2013/12/17  森長和真
