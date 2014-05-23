@@ -8,13 +8,12 @@
 
 ![tool](http://3.bp.blogspot.com/-K8123yNmFzM/Uq-hFx5OhwI/AAAAAAAAAEM/F6XowWSbm90/s320/0.jpg)
 
-![youtube](https://www.youtube.com/watch?v=H7sK_JQGxWk)
 
 ## 詳細
 
-### モードが２つ
+### ２つのモード
 
-* LOWER モード　（下のレイヤーに色が塗られる）※デフォルト
+* LOWER モード　（下のレイヤーに色が塗られる）　※デフォルト
 * LATEST モード　（新しいレイヤーに色が塗られる）
 
 ![lower](http://4.bp.blogspot.com/-TLJqH0eqLyY/Uq-hKwbuxCI/AAAAAAAAAEw/eElucqgvO7w/s320/4.jpg)
@@ -27,7 +26,7 @@
 change レイヤー、STOP レイヤー。
 
 change レイヤーは、目を押すことでモードを切り替えられる。  
-STOP レイヤーは、目を押すことでスクリプトを終了させられる。
+STOP レイヤーは、スクリプトを終了させられる。
 
 ![change](http://4.bp.blogspot.com/-bAcGg7Hh4tc/Uq-hKDvTqFI/AAAAAAAAAEo/grSyLuoN3jo/s320/3.jpg)
 
